@@ -5,7 +5,7 @@ import { StatsCards } from "@/components/dashboard/StatsCards";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Dashboard | Auditspro",
+  title: "Dashboard",
   description: "Monitor your email performance, subscription status, and audit logs.",
 };
 
